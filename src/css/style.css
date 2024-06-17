@@ -12,6 +12,7 @@ body {
   background-position: center;
   background-size: contain;
   position: absolute;
+  opacity: 0.6;
   inset: 0;
   z-index: -1;
 }

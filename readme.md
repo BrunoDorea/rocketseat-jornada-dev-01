@@ -1,9 +1,8 @@
 # Jornada do zero a programação
 
-[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg)](https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc)
+[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/7e177ac5-516c-4d3d-af59-1d7185a78bbe.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/7e177ac5-516c-4d3d-af59-1d7185a78bbe)
 
-[![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)](https://brunodorea.github.io/)
-[![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://brunodorea.github.io/)
+[![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)](https://japanesefood-rocketseat.vercel.app/)
 
 ## 💼 Sobre o projeto
 

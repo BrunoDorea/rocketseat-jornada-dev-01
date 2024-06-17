@@ -1,0 +1,79 @@
+body {
+  font-family: "Spectral", serif;
+
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  align-content: center;
+}
+
+#bg-image {
+  background-image: url("../assets/background-image.png");
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 1.2;
+
+  font-family: "Beth Ellen", cursive;
+}
+
+h1 span {
+  color: #ff5563;
+}
+
+p {
+  font-size: 1.25rem;
+  margin-bottom: 4.5rem;
+}
+
+a {
+  color: #fff;
+  background-color: #ff5563;
+  text-decoration: none;
+  padding: 1rem 2rem;
+
+  border-radius: .5rem;
+  font-size: 1.5rem;
+
+  transition: background-color 300ms;
+}
+
+a:hover {
+  background-color: #ff8892;
+}
+
+/* Layout Mobile */
+@media (width < 40rem) {
+  html {
+    font-size: 70%;
+  }
+}
+
+/* Animação */
+h1, p, a {
+  animation: appear 1s backwards;
+}
+
+h1 {
+  animation-delay: .2s;
+}
+
+p {
+  animation-delay: .8s;
+}
+
+a {
+  animation-delay: 1.6s;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+}
